@@ -59,4 +59,5 @@ Streamlit for the interactive UI
 ReportLab and gTTS for export features
 
 ✨ Author
-Ashish Raj Passionate about AI, storytelling, and healthcare innovation. Connect on LinkedIn and explore more projects on GitHub.
+Ashish Raj
+Passionate about AI, storytelling, and healthcare innovation. Connect on LinkedIn and explore more projects on GitHub.
